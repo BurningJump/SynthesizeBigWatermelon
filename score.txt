@@ -1,0 +1,12 @@
+ No.    	TYPE	SIZE	SCORE
+1£º	grape 	38       	+1
+2£º	apple 	58        	+2
+3£º	orange 	78        	+3
+4£º	lemon 	88         	+4
+5£º	Kiwi fruit 	108     	+5
+6£º	tomato 	128     	+6
+7£º	peach 	138      	+7
+8£º	pineapple 178         	+8
+9£º	coconut    208         	+9
+10£º	watermelon 248      +10
+11£º	big watermelon 288
